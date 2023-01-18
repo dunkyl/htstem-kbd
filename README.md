@@ -6,6 +6,8 @@ CAD files for the HTSTEM keyboard.
 
 Test board for the project. 12 keys, 12 addressible LEDs, and rotary encoder. First time I've actually gone through with ordering a PCB to be made.
 
+Source code for firmware is at [another repo](https://github.com/dunkyl/dunkylmacro12).
+
 BOM for macro12:
 
 | Quantity | Description | Link | Note |
